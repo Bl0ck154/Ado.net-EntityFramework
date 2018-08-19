@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO_DZ_EntityFramework", "ADO_DZ_EntityFramework\ADO_DZ_EntityFramework.csproj", "{D7974931-3FDD-4529-BC88-5EE8446BA511}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task2_Database first", "ADO_DZ_EntityFramework\task2_Database first.csproj", "{D7974931-3FDD-4529-BC88-5EE8446BA511}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task1_ModelFirst", "task1_ModelFirst\task1_ModelFirst.csproj", "{75B98864-FAD8-4A46-89D5-C25DBDBE4E37}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D7974931-3FDD-4529-BC88-5EE8446BA511}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7974931-3FDD-4529-BC88-5EE8446BA511}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7974931-3FDD-4529-BC88-5EE8446BA511}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75B98864-FAD8-4A46-89D5-C25DBDBE4E37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75B98864-FAD8-4A46-89D5-C25DBDBE4E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75B98864-FAD8-4A46-89D5-C25DBDBE4E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75B98864-FAD8-4A46-89D5-C25DBDBE4E37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
